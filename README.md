@@ -1,9 +1,9 @@
 # Property_Price_Prediction
 
 # Machine_Learning_Project-Property-Price-Prediction
-Property Price Prediction using Multiple Linear Regression
+Property Price Prediction using Simple Linear Regression
 
-Overview : The Property Price Prediction project utilizes Multiple Linear Regression, a fundamental machine learning algorithm, to predict real estate prices based on various factors such as location, size, number of rooms, and other features. This model helps in estimating the price of properties efficiently and accurately based on historical data.
+Overview : The Property Price Prediction project utilizes Simple Linear Regression, a fundamental machine learning algorithm, to predict real estate prices based on various factors such as location, size, number of rooms, and other features. This model helps in estimating the price of properties efficiently and accurately based on historical data.
 
 Features : Data Preprocessing: Cleaning and transforming raw real estate data for better accuracy. Feature Engineering: Selecting relevant features that influence property prices. Model Training: Implementing Multiple Linear Regression to train the model. Model Evaluation: Assessing model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). Prediction Interface: Providing a simple interface to input property details and get price predictions.
 
