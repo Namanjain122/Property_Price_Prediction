@@ -43,6 +43,63 @@ Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to pe
 ![image](https://github.com/user-attachments/assets/f914bc3a-e0cc-405e-b4a3-cb6bde6d4a90)
 
 
+# Data Story Telling - Interactive Dashboard
+Note: - click View Raw to download the file dashboard property price prediction(.pbix file)
+![Screenshot 2025-06-10 004550](https://github.com/user-attachments/assets/bec1d62f-3150-4526-8b09-33d21b2faec8)
+![Screenshot 2025-06-10 004622](https://github.com/user-attachments/assets/2b5187af-6a87-4b73-bea4-0eee1e9e67d8)
+![Screenshot 2025-06-10 004646](https://github.com/user-attachments/assets/9b2e451b-ee2f-4499-aac1-2e7bf4e5e87e)
+![Screenshot 2025-06-10 004721](https://github.com/user-attachments/assets/9b32f7d2-e8be-4f21-aa8a-c1627eba0b0d)
+
+## 📊 Dashboard Features
+
+### 1. 📍 Map Visual
+- **Visual Type**: Map
+- **Latitude**: `latitude`
+- **Longitude**: `longitude`
+- **Size**: `median_house_value`
+- **Tooltips**: `median_income`, `ocean_proximity`
+
+### 2. 🧭 Average House Value by Ocean Proximity
+- **Visual Type**: Bar Chart
+- **Axis**: `ocean_proximity`
+- **Value**: Average of `median_house_value`
+
+### 3. 💵 Income vs House Value
+- **Visual Type**: Scatter Plot
+- **X-axis**: `median_income`
+- **Y-axis**: `median_house_value`
+- **Color/Legend**: `ocean_proximity`
+
+### 4. 📈 House Value by Age
+- **Visual Type**: Line Chart
+- **Axis**: `housing_median_age`
+- **Value**: Average of `median_house_value`
+
+### 5. 🛏️ Room Distribution
+- **Visual Type**: Histogram or Column Chart
+- **Axis**: Binned `total_rooms`
+- **Value**: Count
+
+### 6. 🧮 KPI Cards
+- **Average House Value**
+- **Total Population**
+- **Average Income**
+- **Bedroom Ratio**
+
+---
+
+## 🧠 DAX Measures Used
+
+```DAX
+Average House Value = AVERAGE(housing[median_house_value])
+Total Population = SUM(housing[population])
+Average Income = AVERAGE(housing[median_income])
+Room per Household = DIVIDE(SUM(housing[total_rooms]), SUM(housing[households]))
+Bedroom Ratio = DIVIDE(SUM(housing[total_bedrooms]), SUM(housing[total_rooms]))
+
+
+
+
 
 
 
