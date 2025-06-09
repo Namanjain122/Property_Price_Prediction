@@ -18,6 +18,8 @@ Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to pe
 ![Screenshot 2025-06-09 214904](https://github.com/user-attachments/assets/6ee819a9-a298-4564-b2d0-2d8684ef4008)
 
 # Data Preprocessing
+Cleaning and transforming raw real estate data for better accuracy. Feature Engineering: Selecting relevant features that influence property prices. Model Training: Implementing Multiple Linear Regression to train the model. Model Evaluation: Assessing model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). Prediction Interface: Providing a simple interface to input property details and get price predictions.
+
 ![image](https://github.com/user-attachments/assets/9498eb9f-7951-462e-bfee-73c021c67195)
 ![image](https://github.com/user-attachments/assets/73e1f948-f622-4d33-ac6f-e99176774a19)
 
@@ -33,7 +35,11 @@ Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to pe
 # after analyse 
 ![image](https://github.com/user-attachments/assets/ac2fb9ca-ab80-416e-a8f0-6d7c860ddc3a)
 
-# Model BUilding
+# Model Building
+Model Training & Evaluation: Data Preprocessing Handling missing values and outliers. Encoding categorical variables. Feature scaling. Model Implementation Splitting dataset into training and testing sets. Applying Multiple Linear Regression to find relationships between features and property prices.
+
+Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to penalize large errors. R² Score: Indicates how well the model explains the variability in the dataset.
+
 ![image](https://github.com/user-attachments/assets/f914bc3a-e0cc-405e-b4a3-cb6bde6d4a90)
 
 
