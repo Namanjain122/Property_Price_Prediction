@@ -32,7 +32,8 @@ Cleaning and transforming raw real estate data for better accuracy. Feature Engi
 
 # Joint Plot
 ![image](https://github.com/user-attachments/assets/02ae945f-6ec7-4df3-bc15-3280e8c79148)
-# after analyse 
+
+# Key Insights
 ![image](https://github.com/user-attachments/assets/ac2fb9ca-ab80-416e-a8f0-6d7c860ddc3a)
 
 # Model Building
@@ -43,14 +44,18 @@ Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to pe
 ![image](https://github.com/user-attachments/assets/f914bc3a-e0cc-405e-b4a3-cb6bde6d4a90)
 
 
-# Data Story Telling - Interactive Dashboard & Key Insights
+# Data Story Telling - Interactive Dashboard 
 Note: - click View Raw to download the file dashboard property price prediction(.pbix file)
+Watch the video file to see the full working of Interactive dashboard.
 ![Screenshot 2025-06-10 004550](https://github.com/user-attachments/assets/bec1d62f-3150-4526-8b09-33d21b2faec8)
 
+# Intraction 1
 ![Screenshot 2025-06-10 004622](https://github.com/user-attachments/assets/2b5187af-6a87-4b73-bea4-0eee1e9e67d8)
 
+# Intraction 2
 ![Screenshot 2025-06-10 004646](https://github.com/user-attachments/assets/9b2e451b-ee2f-4499-aac1-2e7bf4e5e87e)
 
+# Intraction 3
 ![Screenshot 2025-06-10 004721](https://github.com/user-attachments/assets/9b32f7d2-e8be-4f21-aa8a-c1627eba0b0d)
 
 ## 📊 Dashboard Features
