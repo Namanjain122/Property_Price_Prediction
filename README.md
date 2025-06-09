@@ -12,3 +12,7 @@ Technologies Used : Python (for data processing and model development) Libraries
 Model Training & Evaluation: Data Preprocessing Handling missing values and outliers. Encoding categorical variables. Feature scaling. Model Implementation Splitting dataset into training and testing sets. Applying Multiple Linear Regression to find relationships between features and property prices.
 
 Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to penalize large errors. R² Score: Indicates how well the model explains the variability in the dataset.
+
+# Initial Correlation 
+
+![Screenshot 2025-06-09 214904](https://github.com/user-attachments/assets/6ee819a9-a298-4564-b2d0-2d8684ef4008)
