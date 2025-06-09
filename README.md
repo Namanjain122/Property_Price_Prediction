@@ -13,6 +13,30 @@ Model Training & Evaluation: Data Preprocessing Handling missing values and outl
 
 Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to penalize large errors. R² Score: Indicates how well the model explains the variability in the dataset.
 
-# Initial Correlation 
+#Initial Correlation Matrix
 
 ![Screenshot 2025-06-09 214904](https://github.com/user-attachments/assets/6ee819a9-a298-4564-b2d0-2d8684ef4008)
+
+#Data Preprocessing
+![image](https://github.com/user-attachments/assets/9498eb9f-7951-462e-bfee-73c021c67195)
+![image](https://github.com/user-attachments/assets/73e1f948-f622-4d33-ac6f-e99176774a19)
+
+#Exploratory Data Analysis
+Scatter Ploting
+![image](https://github.com/user-attachments/assets/8fae35dd-2888-4fa6-a957-f86bd5b6ef71)
+
+Box Plot for analyse outliers
+![image](https://github.com/user-attachments/assets/1375596b-e038-45ac-a763-2eafa8efe4c3)
+
+Joint Plot
+![image](https://github.com/user-attachments/assets/02ae945f-6ec7-4df3-bc15-3280e8c79148)
+after analyse 
+![image](https://github.com/user-attachments/assets/ac2fb9ca-ab80-416e-a8f0-6d7c860ddc3a)
+
+Model BUilding
+![image](https://github.com/user-attachments/assets/f914bc3a-e0cc-405e-b4a3-cb6bde6d4a90)
+
+
+
+
+
