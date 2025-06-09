@@ -19,19 +19,18 @@ Evaluation Metrics: MSE (Mean Squared Error): Measures squared differences to pe
 
 # Data Preprocessing
 ![image](https://github.com/user-attachments/assets/9498eb9f-7951-462e-bfee-73c021c67195)
-
 ![image](https://github.com/user-attachments/assets/73e1f948-f622-4d33-ac6f-e99176774a19)
 
 # Exploratory Data Analysis
-Scatter Ploting
+# Scatter Ploting
 ![image](https://github.com/user-attachments/assets/8fae35dd-2888-4fa6-a957-f86bd5b6ef71)
 
-Box Plot for analyse outliers
+# Box Plot for analyse outliers
 ![image](https://github.com/user-attachments/assets/1375596b-e038-45ac-a763-2eafa8efe4c3)
 
-Joint Plot
+# Joint Plot
 ![image](https://github.com/user-attachments/assets/02ae945f-6ec7-4df3-bc15-3280e8c79148)
-after analyse 
+# after analyse 
 ![image](https://github.com/user-attachments/assets/ac2fb9ca-ab80-416e-a8f0-6d7c860ddc3a)
 
 # Model BUilding
